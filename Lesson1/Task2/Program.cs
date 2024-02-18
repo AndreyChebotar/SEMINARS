@@ -11,6 +11,6 @@ if (num < 0)
 int index = - num;
 while (index <= num)
 {
-    Console.Write($"{index} ");
-    index ++;
+    Console.Write($"{index} ");       
+    index ++;                       //index ++ таже самая запись что и index = index + 1 или index -- таже самая запись что и index = index - 1
 }
