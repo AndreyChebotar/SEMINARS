@@ -1,0 +1,15 @@
+/Users/andreychebotar/Desktop/SEMINARS/Lesson1/Task2/obj/Debug/net8.0/Task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andreychebotar/Desktop/SEMINARS/Lesson1/Task2/obj/Debug/net8.0/Task2.AssemblyInfoInputs.cache
+/Users/andreychebotar/Desktop/SEMINARS/Lesson1/Task2/obj/Debug/net8.0/Task2.AssemblyInfo.cs
+/Users/andreychebotar/Desktop/SEMINARS/Lesson1/Task2/obj/Debug/net8.0/Task2.csproj.CoreCompileInputs.cache
+/Users/andreychebotar/Desktop/SEMINARS/Lesson1/Task2/obj/Debug/net8.0/Task2.sourcelink.json
+/Users/andreychebotar/Desktop/SEMINARS/Lesson1/Task2/bin/Debug/net8.0/Task2
+/Users/andreychebotar/Desktop/SEMINARS/Lesson1/Task2/bin/Debug/net8.0/Task2.deps.json
+/Users/andreychebotar/Desktop/SEMINARS/Lesson1/Task2/bin/Debug/net8.0/Task2.runtimeconfig.json
+/Users/andreychebotar/Desktop/SEMINARS/Lesson1/Task2/bin/Debug/net8.0/Task2.dll
+/Users/andreychebotar/Desktop/SEMINARS/Lesson1/Task2/bin/Debug/net8.0/Task2.pdb
+/Users/andreychebotar/Desktop/SEMINARS/Lesson1/Task2/obj/Debug/net8.0/Task2.dll
+/Users/andreychebotar/Desktop/SEMINARS/Lesson1/Task2/obj/Debug/net8.0/refint/Task2.dll
+/Users/andreychebotar/Desktop/SEMINARS/Lesson1/Task2/obj/Debug/net8.0/Task2.pdb
+/Users/andreychebotar/Desktop/SEMINARS/Lesson1/Task2/obj/Debug/net8.0/Task2.genruntimeconfig.cache
+/Users/andreychebotar/Desktop/SEMINARS/Lesson1/Task2/obj/Debug/net8.0/ref/Task2.dll
