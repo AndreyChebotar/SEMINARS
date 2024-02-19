@@ -14,3 +14,5 @@ while (index <= num)
     Console.Write($"{index} ");       
     index ++;                       //index ++ таже самая запись что и index = index + 1 или index -- таже самая запись что и index = index - 1
 }
+
+// Добавил текст
